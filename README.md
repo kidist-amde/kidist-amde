@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 - I’m Kidist, a PhD student in the  Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA)
-supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Andrew Yates](https://andrewyates.net/). 
+supervised by [Prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Dr. Andrew Yates](https://andrewyates.net/). 
 My primary research focuses on Generative methods for Information Retrieval. I'm passionate about Generative Modelling, Multi-modal Learning, and Reinforcement Learning.
 - I'm a lifelong learner 🌱.
 

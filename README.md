@@ -1,4 +1,6 @@
-## Hi there 👋 I’m Kidist, a PhD student in the IRLab at the University of Amsterdam supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Andrew Yates](https://andrewyates.net/). My primary research focuses on Generative methods for Information Retrieval. I'm passionate about Generative Modelling, Multi-modal Learning, and Reinforcement Learning.
+# Hi there 👋 
+
+I’m Kidist, a PhD student in the IRLab at the University of Amsterdam supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Andrew Yates](https://andrewyates.net/). My primary research focuses on Generative methods for Information Retrieval. I'm passionate about Generative Modelling, Multi-modal Learning, and Reinforcement Learning.
 
 <a href="https://www.linkedin.com/in/kidistamde/">
   <img align="left" alt="Kidist Amde Linkdein" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
@@ -32,6 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🔭 I’m currently a PhD student at the University of Amsterdam, Netherlands 
 - 👩🏽‍🎓 M.S. in Data Science at University of Trento, Italy 
 - 👩🏽‍🎓 B.Sc in Computer Science at University of Gondar, Ethiopia 

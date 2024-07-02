@@ -9,7 +9,7 @@ My primary research focuses on Generative methods for Information Retrieval. I'm
       <img align="left" alt="Kidist Amde Linkdein" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
     </a
       <a href="https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en">
-    <img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/google_scholar.svg" />
+    <img align="left" alt="Kidist Google Scholar" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/google_scholar.svg" />
 </a>
 
 

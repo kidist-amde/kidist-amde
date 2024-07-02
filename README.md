@@ -23,6 +23,9 @@ My primary research focuses on Generative methods for Information Retrieval. I'm
 
 <br/>
 
-- 🔭 Currently a PhD student at the University of Amsterdam, Netherlands 
-- 👩🏽‍🎓 M.Sc in Data Science at University of Trento, Italy 
-- 👩🏽‍🎓 BSc in Computer Science at University of Gondar, Ethiopia 
+- 🔭 Currently a PhD student at the University of Amsterdam, Netherlands (2023 - Prsent)
+- 🧑🏽‍🔬🧪 Data Science Research Intern, NANOVERY, Newcastle upon Tyne, England, United Kingdom (Apr 2022 - Oct 2022)
+- 👩🏽‍🎓 M.Sc in Data Science at University of Trento, Italy (2020-2022)
+- 👩🏽‍🎓 M.Sc in Machine Intelligence, African Institute for Mathematical Sciences (AIMS-Rwanda) (2019-2020)
+- 👩🏽‍🏫🥼 Assistant Lecturer,  Department of Computer Science, University of Gondar, Ethiopia (2017-2019)
+- 📚 BSc in Computer Science at University of Gondar, Ethiopia (2013-2017)

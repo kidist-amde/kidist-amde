@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+< br/>
 
 - 🔭 I’m currently a PhD student at the University of Amsterdam, Netherlands 
 - 👩🏽‍🎓 M.S. in Data Science at University of Trento, Italy 

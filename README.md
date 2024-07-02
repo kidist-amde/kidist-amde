@@ -3,7 +3,8 @@
 - I’m Kidist, a PhD student in the  Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA)
 supervised by [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Andrew Yates](https://andrewyates.net/). 
 My primary research focuses on Generative methods for Information Retrieval. I'm passionate about Generative Modelling, Multi-modal Learning, and Reinforcement Learning.
-
+- I'm a lifelong learner 🌱
+  
      <a href="https://www.linkedin.com/in/kidistamde/">
       <img align="left" alt="Kidist Amde Linkdein" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
     </a>
@@ -23,9 +24,17 @@ My primary research focuses on Generative methods for Information Retrieval. I'm
 
 <br/>
 
-- 🔭 Currently a PhD student at the University of Amsterdam, Netherlands (2023 - Prsent)
+## Education and Experience 
+- 🔭 Currently a PhD student at the University of Amsterdam, Netherlands (2023 - Present)
 - 🧑🏽‍🔬🧪 Data Science Research Intern, NANOVERY, Newcastle upon Tyne, England, United Kingdom (Apr 2022 - Oct 2022)
 - 👩🏽‍🎓 M.Sc in Data Science at University of Trento, Italy (2020-2022)
 - 👩🏽‍🎓 M.Sc in Machine Intelligence, African Institute for Mathematical Sciences (AIMS-Rwanda) (2019-2020)
 - 👩🏽‍🏫🥼 Assistant Lecturer,  Department of Computer Science, University of Gondar, Ethiopia (2017-2019)
 - 📚 BSc in Computer Science at University of Gondar, Ethiopia (2013-2017)
+
+## Volunteer work
+- Teaching Assistant at [AddisCoder](https://www.addiscoder.com/#stuff)
+- One of the organizers of the [European Summer School on Information Retrieval(ESSIR - 2024)](https://2024.essir.eu/organization)
+- Mentor at [MeetMentors](https://www.meetmentors.org/kidist-amde)
+- Core Team VolunteerCore at [Women in AI & Robotics](https://www.womeninairobotics.de/) (Sep 2021 - Apr 2022)
+- Volunteer at [Women in AI](https://www.womeninai.co/) (Sep 2020 - Sep 2021)

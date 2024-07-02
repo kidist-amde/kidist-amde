@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 🔭 I’m currently a PhD student at the University of Amsterdam, Netherlands 
 - 👩🏽‍🎓 M.S. in Data Science at University of Trento, Italy 
 - 👩🏽‍🎓 B.Sc in Computer Science at University of Gondar, Ethiopia 

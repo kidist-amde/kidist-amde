@@ -28,6 +28,6 @@ My primary research focuses on Generative methods for Information Retrieval. I'm
 - Mentor at [MeetMentors](https://www.meetmentors.org/kidist-amde)
 - Core Team VolunteerCore at [Women in AI & Robotics](https://www.womeninairobotics.de/) (Sep 2021 - Apr 2022)
 - Volunteer at [Women in AI](https://www.womeninai.co/) (Sep 2020 - Sep 2021)
-
+<!--
 ### 📈 GitHub Stats
 ![Kidist's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidist-amde&show_icons=true&theme=radical)

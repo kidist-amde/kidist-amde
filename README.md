@@ -1,9 +1,8 @@
 # Hi there 👋 
 
-- I’m Kidist, a PhD student in the  Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA)
-supervised by [Prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Dr. Andrew Yates](https://andrewyates.net/). 
-My primary research focuses on Generative methods for Information Retrieval. I'm passionate about Generative Modelling, Multi-modal Learning, and Reinforcement Learning.
-- I'm a lifelong learner 🌱.
+- I’m Kidist, a PhD student in the Information Retrieval Lab (IRLab) at the University of Amsterdam, supervised by [Prof. dr. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Dr. Andrew Yates](https://andrewyates.net/). 
+- My research focuses on generative methods for information retrieval, with broader interests in generative modeling, multimodal learning, and reinforcement learning.
+
   
     <a href="https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en">
       <img align="left" alt="Kidist Google Scholar" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/google_scholar.svg" />
@@ -13,7 +12,7 @@ My primary research focuses on Generative methods for Information Retrieval. I'm
       <a href=""><img align="left" alt="Kidist StackOverflow" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-512.png" /> </a>
       <a href=""><img align="left" alt="Kidist  Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" /> </a>
       </br>
-  
+<!--  
 ## Education and Experience 
 - 🔭 Currently a PhD student at the University of Amsterdam, Netherlands (2023 - Present)
 - 🧑🏽‍🔬🧪 Data Science Research Intern, NANOVERY, Newcastle upon Tyne, England, United Kingdom (Apr 2022 - Oct 2022)

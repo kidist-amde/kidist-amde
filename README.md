@@ -10,8 +10,10 @@
      <a href="https://www.linkedin.com/in/kidistamde/"><img align="left" alt="Kidist Amde Linkdein" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" /> </a>
     <a href="https://github.com/kidist-amde?tab=repositories"><img align="left" alt="Kidist Amde Github" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-512.png" /> </a>
       <a href=""><img align="left" alt="Kidist StackOverflow" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-512.png" /> </a>
-      <a href=""><img align="left" alt="Kidist  Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" /> </a>
-      </br>
+   
+  <a href="https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf">
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/researchgate.svg" alt="ResearchGate" width="24" height="24"/>
+  </a>
 <!--  
 ## Education and Experience 
 - 🔭 Currently a PhD student at the University of Amsterdam, Netherlands (2023 - Present)

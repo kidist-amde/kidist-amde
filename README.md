@@ -4,6 +4,7 @@
 - My research focuses on generative methods for information retrieval, with broader interests in generative modeling, multimodal learning, and reinforcement learning.
 
 [![Website](https://img.shields.io/badge/Website-kidist--amde.github.io-1F4E79?style=flat-square)](https://kidist-amde.github.io/)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models%20%26%20Datasets-yellow?style=flat-square)](https://huggingface.co/kiyam)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kidistamde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidistamde/)
 [![GitHub](https://img.shields.io/badge/GitHub-kidist--amde-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kidist-amde)

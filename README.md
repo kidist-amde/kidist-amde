@@ -7,12 +7,15 @@
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models%20%26%20Datasets-yellow?style=flat-square)](https://huggingface.co/kiyam)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kidistamde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidistamde/)
-[![GitHub](https://img.shields.io/badge/GitHub-kidist--amde-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kidist-amde)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Kidist-Amde-Mekonnen?ev=hdr_xprf)
+
+
+<!--  [![GitHub](https://img.shields.io/badge/GitHub-kidist--amde-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kidist-amde)
 
 <!-- <a href="https://kidist-amde.github.io/">
   <img align="left" alt="Kidist Website" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" />
 </a>
+
     <a href="https://scholar.google.com/citations?user=_c20PQwAAAAJ&hl=en">
       <img align="left" alt="Kidist Google Scholar" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/google_scholar.svg" />
     </a> 
